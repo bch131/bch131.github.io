@@ -1,0 +1,9 @@
+@import "../reset.css";
+@import "../common.css";
+@import "../components/header1.css";
+@import "../components/footer.css";
+@import "../components/month-best.css";
+
+.main {
+    padding-top: 30px;
+}

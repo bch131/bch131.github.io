@@ -1,0 +1,8 @@
+@import "../reset.css";
+@import "../common.css";
+/* ./이건 폴더 안에 있는데 css파일 ../이건 상위 폴더 안에있는 css 파일 */
+@import "../components/header1.css";
+@import "../intro.css";
+@import "../slider.css";
+@import "../components/month-best.css";
+@import "../components/footer.css";
